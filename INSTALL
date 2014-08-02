@@ -1,0 +1,9 @@
+Building Zipcoin
+
+See doc/readme-qt.rst for instructions on building Zipcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Zipcoin.
+
+See doc/build-*.txt for instructions on building Zipcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Zipcoin.
